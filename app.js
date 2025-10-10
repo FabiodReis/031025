@@ -1,3 +1,4 @@
-for(let i = 0; i<10; i++) {
-    console.log|(i)
+while(10<100) {
+    console.log(a)
+    i++
 }
